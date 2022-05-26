@@ -1,0 +1,26 @@
+{
+    "default": {
+        "host": "wn74261.ap-southeast-2",
+        "username": "uday.mallam@fmgl.com.au",
+        "database": "EDW",
+        "schema": "SBX_AUTOMATEDTESTING",
+        "warehouse": "WH_DAA_DEVANALYSIS",
+        "role": "EDW_UDAY.MALLAM"
+    },
+    "snowflake": {
+        "host": "wn74261.ap-southeast-2",
+        "username": "uday.mallam@fmgl.com.au",
+        "database": "EDW",
+        "schema": "SBX_AUTOMATEDTESTING",
+        "warehouse": "WH_DAA_DEVANALYSIS",
+        "role": "EDW_UDAY.MALLAM"
+    },
+    "snowflake1": {
+        "host": "wn74261.ap-southeast-2",
+        "username": "uday.mallam@fmgl.com.au",
+        "database": "EDW",
+        "schema": "SBX_AUTOMATEDTESTING",
+        "warehouse": "WH_DAA_DEVANALYSIS",
+        "role": "EDW_UDAY.MALLAM"
+    }
+}
